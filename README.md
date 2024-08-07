@@ -3,5 +3,5 @@
 
 ## ترخيص
 
-هذا المشروع مرخص بموجب [MIT License](LICENSE.text).
+هذا المشروع مرخص بموجب [MIT License](LICENSE.txt).
 
